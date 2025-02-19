@@ -12,3 +12,7 @@ JavaScript - Adding interactivity and dynamic functionality
 Task 1: Uptoskills Official Website
 
 Created a simple version of the uptoskills official website using HTML,inline CSS for styling the HTML elements.
+
+Task 2: Horilla HRMS Website
+
+Created a clone of the horilla HRMS website.
