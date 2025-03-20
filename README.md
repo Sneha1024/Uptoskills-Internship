@@ -16,3 +16,7 @@ Created a simple version of the uptoskills official website using HTML,inline CS
 Task 2: Horilla HRMS Website
 
 Created a clone of the horilla HRMS website.
+
+Task 3: Horilla HRMS Frontend 
+
+Created a simple Horilla home page using HTML,CSS and Javascript.
