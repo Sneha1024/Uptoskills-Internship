@@ -1,22 +1,33 @@
-# Uptoskills-Internship
-This repository contains projects and tasks completed as part of the Uptoskills web development internship. The internship focuses on developing interactive websites using HTML, CSS, and JavaScript, improving front-end development skills through practical assignments.
+**Uptoskills Web Development Internship**
+This repository showcases the projects and tasks completed during the Uptoskills Web Development Internship. The internship provided hands-on experience in building interactive, responsive websites and strengthened front-end development skills through practical assignments.
 
-Technologies Used
+🚀 **Technologies Used**
+HTML5 – Structuring web pages
 
-HTML5 - Structuring web pages
+CSS3 – Styling and layout design
 
-CSS3 - Styling and layout design
+JavaScript – Adding interactivity and dynamic behavior
 
-JavaScript - Adding interactivity and dynamic functionality
+Tasks Completed
+✅ Task 1: Uptoskills Official Website
+Developed a basic version of the Uptoskills official website
 
-Task 1: Uptoskills Official Website
+Used HTML for structure and inline CSS for styling
 
-Created a simple version of the uptoskills official website using HTML,inline CSS for styling the HTML elements.
+✅ Task 2: Horilla HRMS Website Clone
+Cloned the Horilla HRMS website layout
 
-Task 2: Horilla HRMS Website
+Implemented design using HTML and CSS
 
-Created a clone of the horilla HRMS website.
+✅ Task 3: Horilla HRMS Frontend
+Created a simplified Horilla home page
 
-Task 3: Horilla HRMS Frontend 
+Developed using HTML, CSS, and JavaScript
 
-Created a simple Horilla home page using HTML,CSS and Javascript.
+Focused on clean UI and improved readability
+
+📊 Additional Contributions
+📑 Internship Review Presentations: Included PPTs reviewing project progress, learnings, and outcomes during the internship
+
+📝 Research Paper: Co-authored and published a paper on Emerging Web Technologies, highlighting trends, tools, and real-world applications explored during the internship
+
